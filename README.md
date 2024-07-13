@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pragyasingh-29/Leetcode-Solved-Questions/tree/master/0175-combine-two-tables) |
+| [0577-employee-bonus](https://github.com/pragyasingh-29/Leetcode-Solved-Questions/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
