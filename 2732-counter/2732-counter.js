@@ -8,11 +8,12 @@ var createCounter = function(n) {
 var counter = n-1; 
 
     return function() {
-        
             counter++;
             return counter;
         }
 }
+
+console.log(createCounter);
 /** 
  * const counter = createCounter(10)
  * counter() // 10
